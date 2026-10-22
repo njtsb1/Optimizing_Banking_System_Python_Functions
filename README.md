@@ -40,6 +40,6 @@ A robust and secure command-line banking prototype developed in Python. This ver
 - Develop a responsive web or mobile graphical user interface.
 - Implement strict field validations for Brazilian CPFs and Birth Dates formatting.
 
-![screenshot web demo](docs/assets/screenshot_web_demo.png)
+| ![App Had Bank](docs/assets/screenshot_web_demo.png) | ![Menu](docs/assets/screenshot_web_demo_menu.png) |
 
 [LICENSE](/LICENSE)

@@ -42,6 +42,6 @@ fetch("http://127.0.0", {
 })
 ```
 
-![screenshot web demo](assets/screenshot_web_demo.png)
+| ![App Had Bank](assets/screenshot_web_demo.png) | ![Menu](assets/screenshot_web_demo_menu.png) |
 
 [LICENSE](./LICENSE)
