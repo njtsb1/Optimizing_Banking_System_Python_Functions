@@ -42,4 +42,6 @@ fetch("http://127.0.0", {
 })
 ```
 
+![screenshot web demo](assets/screenshot_web_demo.png)
+
 [LICENSE](./LICENSE)
